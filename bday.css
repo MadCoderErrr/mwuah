@@ -1,0 +1,117 @@
+body {
+  font-family: "Happy Monkey", system-ui;
+  font-style: normal;
+  color: #00fff7;
+  background: #712637;
+}
+
+#jpic1 {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #ff153f;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2, h4 {
+    text-shadow: 0px 0px 1px #712637;
+}
+
+#bday-age{
+    background: #182433;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 15px 0px 10px 0px;
+    color: #ff153f;
+}
+
+#bday-date {
+    background: #182433;
+    padding: 5px 10px;
+    margin: 0;
+    border-radius: 5px;
+    color: #ff153f;
+}
+
+.gift-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.bday-img {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    background-image: url("images/rgift.jpg");
+    border-radius: 10px;
+    border: 6px solid #ff153f;
+    background-size: cover;
+}
+
+#smile:hover {
+    background-image: url("images/jpic2.jpg");
+}
+
+#gif1:hover {
+    background-image: url("images/gif1.gif");
+}
+
+.bday-h2 {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0px;
+}
+
+#pirate:hover {
+    background-image: url("images/jpic3.jpg");
+}
+
+#gif2:hover {
+    background-image: url("images/gif2.gif");
+}
+
+#gigil:hover {
+    background-image: url("images/jpic4.jpg");
+}
+
+#gif3:hover {
+    background-image: url("images/gif3.gif");
+}
+
+#man:hover {
+    background-image: url("images/jpic5.jpg");
+}
+
+#shine:hover {
+    background-image: url("images/jpic6.jpg");
+}
+
+#gif4:hover {
+    background-image: url("images/gif4.gif");
+}
+
+#gif5:hover {
+    background-image: url("images/gif5.gif");
+}
+
+
+/*.page {
+    width: 500px;
+    background-color: #00fff7;
+    margin: auto;
+    margin-top: 50px;
+    padding: 15px;
+    border-top: 10px solid #ff153f;
+    text-shadow: 0px 0px 1px #d35f02;
+}*/
